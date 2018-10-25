@@ -1,5 +1,5 @@
 
-# Introduction to magics     [!(ECMWF_Logo.png)(http://www.ecmwf.int/)]
+# Introduction to magics    [![logo](logo.png)](http://www.ecmwf.int/)
 
 [Magics](https://confluence.ecmwf.int/display/MAGP/Magics) is the latest generation of the ECMWF's meteorological plotting software. It offers easy to visualise data coded in meteorolofgcal format such GRIB, NetCDF , and BUFR.
 
@@ -13,7 +13,7 @@ This gallery of tutorials and examples will help discover its functionality
 
 ## Tutorials
 
-| Setting the  geographical view <br/> [![Setting the  geographical view?](tutorials/cCoastlines.png)](tutorials/Subpage-Projections.ipynb)  | Customise coastlines <br/> [![Customise coastlines](tutorials/Coastlines.png)](tutorials/Coastlines.ipynb) | Introduction to contouring <br> [![Introduction to contouring](tutorials/Contours_lines.png)](tutorials/Contours_lines.ipynb) |
+| Setting the  geographical view <br/> [![Setting the  geographical view?](tutorials/Coastlines.png)](tutorials/Subpage-Projections.ipynb)  | Customise coastlines <br/> [![Customise coastlines](tutorials/Coastlines.png)](tutorials/Coastlines.ipynb) | Introduction to contouring <br> [![Introduction to contouring](tutorials/Contours_lines.png)](tutorials/Contours_lines.ipynb) |
 |---|---|---|
 
 ## Gallery 
