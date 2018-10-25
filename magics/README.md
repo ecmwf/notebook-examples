@@ -1,4 +1,4 @@
-### Magics
+# Magics
 
 ## Tutorials
 
