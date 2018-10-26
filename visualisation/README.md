@@ -1,7 +1,7 @@
 
 # [![logo](logo.png)](http://www.ecmwf.int/) Introduction to magics
 
-[Magics](https://confluence.ecmwf.int/display/MAGP/Magics) is the latest generation of the ECMWF's meteorological plotting software. It offers easy to visualise data coded in meteorolofgcal format such GRIB, NetCDF , and BUFR.
+[Magics](https://confluence.ecmwf.int/display/MAGP/Magics) is the latest generation of the ECMWF's meteorological plotting software. It offers an easy way to visualise data coded in meteorolofgcal format such as GRIB, NetCDF and BUFR.
 
 Its simple python interface allows users to quickly setup projection and geographical areas, and choose the visualisation. 
 
