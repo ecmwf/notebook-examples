@@ -1,4 +1,4 @@
-# <img src="logo.png" width="150"> - How to work with meteorological data
+# <img src="logo.png" width="200"> - How to work with meteorological data
 
 The examples in this space should give you a good starting point how you can work with ECMWF services and data through Python using Jupyter notebooks. 
 
