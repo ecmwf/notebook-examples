@@ -1,6 +1,6 @@
-# [![logo](logo.png)](http://www.ecmwf.int/)  Welcome to the ECMWF's Jupyter examples
+# <img src="logo.png" width="150"> - How to work with meteorological data
 
-The examples in this space should give you an impression how you can work with ECMWF services and data through Python using Jupyter notebooks. 
+The examples in this space should give you a good starting point how you can work with ECMWF services and data through Python using Jupyter notebooks. 
 
 * [Visualisation meteorological data](visualisation) using ECMWF's [Magics](https://software.ecmwf.int/magics) plotting package for meteorological data.
 * [Retrieving and processing meteorological data](processing) using [Metview](https://software.ecmwf.int/metview) and related Python packages
