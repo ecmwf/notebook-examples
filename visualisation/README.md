@@ -13,7 +13,7 @@ This gallery of tutorials and examples will help discover its functionality
 
 ## Tutorials
 
-| Setting the  geographical view <br/> [![Setting the  geographical view?](images/view.png)](tutorials/Subpage-Projections.ipynb)  | Customise coastlines <br/> [![Customise coastlines](images/coast.png)](tutorials/Coastlines.ipynb) | Introduction to contouring <br> [![Introduction to contouring](images/shading.png)](tutorials/Contours_lines.ipynb) |
+| Setting the  geographical view <br/> [![Setting the  geographical view?](images/view.png)](tutorials/Subpage-Projections.ipynb)  | Customise coastlines <br/> [![Customise coastlines](images/coast.png)](tutorials/Coastlines.ipynb) | Introduction to contouring <br> [![Introduction to contouring](images/contour_rainbow.png)](tutorials/Contours_lines.ipynb) |
 |---|---|---|
 
 ## Gallery 
