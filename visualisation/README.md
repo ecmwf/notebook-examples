@@ -13,12 +13,13 @@ This gallery of tutorials and examples will help discover its functionality
 
 ## Tutorials
 
-| Setting the  geographical view <br/> [![Setting the  geographical view?](images/view.png)](tutorials/Subpage-Projections.ipynb)  | Customise coastlines <br/> [![Customise coastlines](images/coast.png)](tutorials/Coastlines.ipynb) | Introduction to contouring <br> [![Introduction to contouring](images/contour_rainbow.png)](tutorials/Contours_lines.ipynb) |
-|---|---|---|
+| Setting the  geographical view <br/> [![Setting the  geographical view?](images/view.png)](tutorials/Subpage-Projections.ipynb)  | Customise coastlines <br/> [![Customise coastlines](images/coast.png)](tutorials/Coastlines.ipynb) | Introduction to contouring <br> [![Introduction to contouring](images/contour_rainbow.png)](tutorials/Contours_lines.ipynb) |    
+|:---:|:---:|:---:|
+|**Introduction to shading** <br> [![Introduction to shading      ](images/colour_list_1.png)](tutorials/Contours_shading.ipynb) |  | |
+
+
 
 ## Gallery 
 
 | Cylindrical projection <br/> [![Cylindrical projection](gallery/cylindrical.png)](gallery/cylindrical.ipynb)  | Europe on Stereographic projection <br/> [![Europe on Stereographic projection](gallery/polar-stereo.png)](gallery/polar-stereo.ipynb) | Simple shading <br/> [![Europe on Stereographic projection](images/simple_shading.png)](tutorials/Contours_shading.ipynb#simple_shading) |
-|---|---|---|
-
-  
+|:---:|:---:|:---:|
