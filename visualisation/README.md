@@ -18,7 +18,7 @@ This gallery of tutorials and examples will help discover its functionality
 
 ## Gallery 
 
-| Cylindrical projection <br/> [![Cylindrical projection](gallery/cylindrical.png)](gallery/cylindrical.ipynb)  | Europe on Stereographic projection <br/> [![Europe on Stereographic projection](gallery/polar-stereo.png)](gallery/polar-stereo.ipynb) | Simple shading <br/> [![Europe on Stereographic projection](images/simple_shading.png)](tutorials/Contours_shading.ipynb#Simple-shading) |
+| Cylindrical projection <br/> [![Cylindrical projection](gallery/cylindrical.png)](gallery/cylindrical.ipynb)  | Europe on Stereographic projection <br/> [![Europe on Stereographic projection](gallery/polar-stereo.png)](gallery/polar-stereo.ipynb) | Simple shading <br/> [![Europe on Stereographic projection](images/simple_shading.png)](tutorials/Contours_shading.ipynb#simple_shading) |
 |---|---|---|
 
   
