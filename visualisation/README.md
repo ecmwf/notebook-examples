@@ -16,7 +16,7 @@ This gallery of tutorials and examples will help discover its functionality
 | Setting the  geographical view <br/> [![Setting the  geographical view?](images/view.png)](tutorials/Subpage-Projections.ipynb)  | Customise coastlines <br/> [![Customise coastlines](images/coast.png)](tutorials/Coastlines.ipynb) | Introduction to contouring <br> [![Introduction to contouring](images/contour_rainbow.png)](tutorials/Contours_lines.ipynb) |    
 |:---:|:---:|:---:|
 |**Introduction to shading** <br> [![Introduction to shading      ](images/colour_list_1.png)](tutorials/Contours_shading.ipynb) |  **Introduction to automatic shading** <br> [![Introduction to shading      ](images/palette.png)](tutorials/Contours_automtatic.ipynb)| **Legend customization** <br> [![Legend customization      ](images/legend_5.png)](tutorials/Legend.ipynb) |
-|**Introduction to Symbols plotting** <br> [![Introduction to Symbols plotting      ](images/simple_symbol.png)](tutorials/Symbol_simple.ipynb) |  **Advanced Symbols plotting** <br> [![Advanced Symbols plotting      ](images/ww.png)](tutorials/Symbol_advanced.ipynb)|  |
+|**Introduction to Symbols plotting** <br> [![Introduction to Symbols plotting      ](images/simple_symbol.png)](tutorials/Symbol_simple.ipynb) |  **Advanced Symbols plotting** <br> [![Advanced Symbols plotting      ](images/ww.png)](tutorials/Symbol_advanced.ipynb)| **Introduction to wind plotting** <br> [![Wind plotting      ](images/wind.png)](tutorials/Wind.ipynb) |
 
 
 
