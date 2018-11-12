@@ -17,7 +17,7 @@ This gallery of tutorials and examples will help discover its functionality
 |:---:|:---:|:---:|
 |**Introduction to shading** <br> [![Introduction to shading      ](images/colour_list_1.png)](tutorials/Contours_shading.ipynb) |  **Introduction to automatic shading** <br> [![Introduction to shading      ](images/palette.png)](tutorials/Contours_automtatic.ipynb)| **Legend customization** <br> [![Legend customization      ](images/legend_5.png)](tutorials/Legend.ipynb) |
 |**Introduction to Symbols plotting** <br> [![Introduction to Symbols plotting      ](images/simple_symbol.png)](tutorials/Symbol_simple.ipynb) |  **Advanced Symbols plotting** <br> [![Advanced Symbols plotting      ](images/ww.png)](tutorials/Symbol_advanced.ipynb)| **Introduction to wind plotting** <br> [![Wind plotting      ](images/wind.png)](tutorials/Wind.ipynb) |
-|**Introduction to Text plotting** <br> [![Introduction to Text plotting      ](images/text.png)](tutorials/Text.ipynb) |  |  |
+|**Introduction to Text plotting** <br> [![Introduction to Text plotting      ](images/text.png)](tutorials/Text.ipynb) | **A complex layout** <br> [![A complex layout      ](images/complex.png)](tutorials/A_complex_layout.ipynb) |  |
 
 
 ## Gallery 
