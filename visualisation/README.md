@@ -22,5 +22,8 @@ This gallery of tutorials and examples will help discover its functionality
 
 ## Gallery 
 
-| Cylindrical projection <br/> [![Cylindrical projection](gallery/cylindrical.png)](gallery/cylindrical.ipynb)  | Europe on Stereographic projection <br/> [![Europe on Stereographic projection](gallery/polar-stereo.png)](gallery/polar-stereo.ipynb) | Simple shading <br/> [![Europe on Stereographic projection](images/simple_shading.png)](tutorials/Contours_shading.ipynb#simple_shading) |
+| Cylindrical projection <br/> [![Cylindrical projection](gallery/cylindrical.png)](gallery/cylindrical.ipynb)  | Europe on Stereographic projection <br/> [![Europe on Stereographic projection](gallery/polar-stereo.png)](gallery/polar-stereo.ipynb) | **Boundaries and rivers** <br> [![Boundaries and rivers      ](images/boundaries_and_rivers.png)](gallery/boundaries_and_rivers.ipynb) |
 |:---:|:---:|:---:|
+| **High resolution coastline** <br> [![High resolution coastline      ](images/high-res_coast.png)](gallery/high_resolution_coastline.ipynb)|  **Sea, lakes and rivers** <br> [![Sea, lakes and rivers      ](images/sea_lakes_rivers.png)](gallery/sea_lakes_rivers.ipynb)| **Boundaries, cities and rivers** <br> [![Boundaries, cities and rivers      ](images/boundaries_cities_rivers.png)](gallery/boundaries_cities_rivers.ipynb) |
+| **Simple shading** <br> [![Simple shading      ](images/simple_shading.png)](gallery/simple_shading.ipynb)|  **Colour list** <br> [![Colour list      ](images/colour_list.png)](gallery/colour_list.ipynb)| **Level and colour list** <br> [![Level and colour list      ](images/level_list.png)](gallery/list_of_levels_and_colours.ipynb) |
+| **Gradients method 1** <br> [![Gradients method 1      ](images/gradients1.png)](gallery/gradients1.ipynb) | **Gradients method 2** <br> [![Gradients method 2      ](images/gradients2.png)](gallery/gradients2.ipynb) | **Palette method** <br> [![Palette method   ](images/palette.png)](gallery/palette.ipynb) |
