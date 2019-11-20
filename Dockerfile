@@ -21,3 +21,6 @@ COPY . ${HOME}
 USER root
 RUN chown -R ${NB_UID} ${HOME}
 USER ${NB_USER}
+
+
+COPY ./jupyter_notebook_config.py ${HOME}/.jupyter/jupyter_notebook_config.py
