@@ -5,6 +5,7 @@ FROM eduardrosert/magics:version-4.2.0
 RUN pip install --no-cache-dir notebook==5.*
 
 RUN pip install xarray
+RUN pip install metview
 
 ARG NB_USER=jovyan
 ARG NB_UID=1000
