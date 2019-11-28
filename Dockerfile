@@ -1,6 +1,6 @@
 
 
-FROM eduardrosert/magics:version-4.2.0
+FROM ecmwf/magics:4.2.4
 
 RUN pip install --no-cache-dir notebook==5.*
 
