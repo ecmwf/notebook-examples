@@ -1,11 +1,7 @@
-
-
 FROM ecmwf/magics:4.2.4
 
 RUN pip install --no-cache-dir notebook==5.*
-
-RUN pip install xarray
-RUN pip install ipywidgets
+RUN pip install xarray ipywidgets
 
 ARG NB_USER=jovyan
 ARG NB_UID=1000
@@ -18,11 +14,8 @@ RUN adduser --disabled-password \
     --uid ${NB_UID} \
     ${NB_USER}
 
-COPY ./jupyter_notebook_config.py ${HOME}/.jupyter/jupyter_notebook_config.py
+#COPY ./jupyter_notebook_config.py ${HOME}/.jupyter/jupyter_notebook_config.py
 COPY . ${HOME}
 USER root
 RUN chown -R ${NB_UID} ${HOME}
 USER ${NB_USER}
-
-
-
