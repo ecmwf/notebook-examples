@@ -1,6 +1,6 @@
 # <img src="logo.png" width="200"> - How to work with meteorological data
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ecmwf/notebook-examples/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ecmwf/notebook-examples/master?filepath=%2Fhome%2Fjovyan)
 
 The examples in this space should give you a good starting point how you can work with ECMWF services and data through Python using Jupyter notebooks. 
 
@@ -8,5 +8,5 @@ The examples in this space should give you a good starting point how you can wor
 * [Retrieving and processing meteorological data](processing) using [Metview](https://software.ecmwf.int/metview) and related Python packages
 
 ## Try it out with Binder 
-Go to mybinder : https://mybinder.org/v2/gh/ecmwf/notebook-examples/master
+Go to mybinder: https://mybinder.org/v2/gh/ecmwf/notebook-examples/master?filepath=%2Fhome%2Fjovyan
 
