@@ -8,7 +8,7 @@ Its simple python interface allows users to quickly setup projection and geograp
 This gallery of tutorials and examples will help discover its functionality
 
   - Easy visualisation of [GRIB data](Visualise%20a%20GRIB%20file.ipynb)
-  - Easy visualisation of [NetCDF data](Visualise+a+NetCDF+file.ipynb)
+  - Easy visualisation of [NetCDF data](Visualise%20a%20NetCDF%20file.ipynb)
   - Easy visualisation of xarray data
 
 ## Tutorials
