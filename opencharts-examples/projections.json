@@ -1,0 +1,214 @@
+{
+    "north_pole": {
+        "subpage_lower_left_longitude": -45.0, 
+        "subpage_upper_right_longitude": 135.0, 
+        "subpage_map_projection": "polar_stereographic", 
+        "subpage_upper_right_latitude": 9.0, 
+        "subpage_lower_left_latitude": 9.0
+    }, 
+    "eurasia": {
+        "subpage_upper_right_longitude": 168, 
+        "subpage_upper_right_latitude": 31, 
+        "subpage_lower_left_longitude": 50, 
+        "subpage_vertical_longitude": 80, 
+        "subpage_map_projection": "polar_stereographic", 
+        "subpage_lower_left_latitude": 17
+    }, 
+    "global": {
+        "subpage_lower_left_longitude": -180.0, 
+        "subpage_upper_right_longitude": 180.0, 
+        "subpage_map_projection": "cylindrical", 
+        "subpage_upper_right_latitude": 90.0, 
+        "subpage_lower_left_latitude": -90.0
+    }, 
+    "south_west_europe": {
+        "subpage_lower_left_longitude": -15.0, 
+        "subpage_upper_right_longitude": 20.0, 
+        "subpage_map_projection": "polar_stereographic", 
+        "subpage_upper_right_latitude": 50.0, 
+        "subpage_lower_left_latitude": 27.0
+    }, 
+    "east_tropic": {
+        "subpage_lower_left_longitude": 0.0, 
+        "subpage_upper_right_longitude": 179.9, 
+        "subpage_map_projection": "cylindrical", 
+        "subpage_upper_right_latitude": 35.0, 
+        "subpage_lower_left_latitude": -35.0
+    }, 
+    "south_east_europe": {
+        "subpage_lower_left_longitude": 4.0, 
+        "subpage_upper_right_longitude": 49.0, 
+        "subpage_map_projection": "polar_stereographic", 
+        "subpage_upper_right_latitude": 40.0, 
+        "subpage_lower_left_latitude": 29.0
+    }, 
+    "south_east_asia_and_indonesia": {
+        "subpage_lower_left_longitude": 79.5, 
+        "subpage_upper_right_longitude": 164.0, 
+        "subpage_map_projection": "cylindrical", 
+        "subpage_upper_right_latitude": 30.5, 
+        "subpage_lower_left_latitude": -18.0
+    }, 
+    "northern_africa": {
+        "subpage_lower_left_longitude": -18.21, 
+        "subpage_upper_right_longitude": 60.67, 
+        "subpage_map_projection": "cylindrical", 
+        "subpage_upper_right_latitude": 38.46, 
+        "subpage_lower_left_latitude": 0.0
+    }, 
+    "antarctic": {
+        "subpage_upper_right_longitude": 45.0, 
+        "subpage_upper_right_latitude": -42.0, 
+        "subpage_lower_left_longitude": -135.0, 
+        "subpage_map_hemisphere": "south", 
+        "subpage_vertical_longitude": 180, 
+        "subpage_map_projection": "polar_stereographic", 
+        "subpage_lower_left_latitude": -42.0
+    }, 
+    "central_europe": {
+        "subpage_lower_left_longitude": -6.0, 
+        "subpage_upper_right_longitude": 26.0, 
+        "subpage_map_projection": "polar_stereographic", 
+        "subpage_upper_right_latitude": 54.0, 
+        "subpage_lower_left_latitude": 40.0
+    }, 
+    "southern_asia": {
+        "subpage_upper_right_longitude": 140, 
+        "subpage_upper_right_latitude": 30, 
+        "subpage_lower_left_longitude": 61, 
+        "subpage_vertical_longitude": 80, 
+        "subpage_map_projection": "polar_stereographic", 
+        "subpage_lower_left_latitude": 1.0
+    }, 
+    "south_america": {
+        "subpage_lower_left_longitude": -89.3, 
+        "subpage_upper_right_longitude": -32.5, 
+        "subpage_map_projection": "cylindrical", 
+        "subpage_upper_right_latitude": 13.0, 
+        "subpage_lower_left_latitude": -56.0
+    }, 
+    "north_east_europe": {
+        "subpage_lower_left_longitude": 2.0, 
+        "subpage_upper_right_longitude": 68.0, 
+        "subpage_map_projection": "polar_stereographic", 
+        "subpage_upper_right_latitude": 50.0, 
+        "subpage_lower_left_latitude": 46.0
+    }, 
+    "southern_africa": {
+        "subpage_lower_left_longitude": 3.7, 
+        "subpage_upper_right_longitude": 51.4, 
+        "subpage_map_projection": "cylindrical", 
+        "subpage_upper_right_latitude": 6.4, 
+        "subpage_lower_left_latitude": -35.2
+    }, 
+    "north_west_europe": {
+        "subpage_lower_left_longitude": -18.0, 
+        "subpage_upper_right_longitude": 40.0, 
+        "subpage_map_projection": "polar_stereographic", 
+        "subpage_upper_right_latitude": 70.0, 
+        "subpage_lower_left_latitude": 44.0
+    }, 
+    "europe": {
+        "subpage_lower_left_longitude": -15.0, 
+        "subpage_upper_right_longitude": 68.0, 
+        "subpage_map_projection": "polar_stereographic", 
+        "subpage_upper_right_latitude": 50.0, 
+        "subpage_lower_left_latitude": 27.0
+    }, 
+    "arctic": {
+        "subpage_lower_left_longitude": -45.0, 
+        "subpage_upper_right_longitude": 135.0, 
+        "subpage_map_projection": "polar_stereographic", 
+        "subpage_upper_right_latitude": 42.0, 
+        "subpage_lower_left_latitude": 42.0
+    }, 
+    "central_america": {
+        "subpage_lower_left_longitude": -121.0, 
+        "subpage_upper_right_longitude": -53.5, 
+        "subpage_map_projection": "cylindrical", 
+        "subpage_upper_right_latitude": 36.0, 
+        "subpage_lower_left_latitude": -5.0
+    }, 
+    "pacific": {
+        "subpage_lower_left_longitude": 109.0, 
+        "subpage_upper_right_longitude": 296.0, 
+        "subpage_map_projection": "cylindrical", 
+        "subpage_upper_right_latitude": 69.0, 
+        "subpage_lower_left_latitude": -69.0
+    }, 
+    "eastern_asia": {
+        "subpage_upper_right_longitude": 178.2, 
+        "subpage_upper_right_latitude": 60.2, 
+        "subpage_lower_left_longitude": 92.8, 
+        "subpage_vertical_longitude": 118.6, 
+        "subpage_map_projection": "polar_stereographic", 
+        "subpage_lower_left_latitude": 15.8
+    }, 
+    "middle_east_and_india": {
+        "subpage_lower_left_longitude": 29.0, 
+        "subpage_upper_right_longitude": 94.0, 
+        "subpage_map_projection": "cylindrical", 
+        "subpage_upper_right_latitude": 40.5, 
+        "subpage_lower_left_latitude": -2.0
+    }, 
+    "west_tropic": {
+        "subpage_lower_left_longitude": -180.0, 
+        "subpage_upper_right_longitude": 0.0, 
+        "subpage_map_projection": "cylindrical", 
+        "subpage_upper_right_latitude": 35.0, 
+        "subpage_lower_left_latitude": -35.0
+    }, 
+    "south_pole": {
+        "subpage_upper_right_longitude": 45.0, 
+        "subpage_upper_right_latitude": -9.0, 
+        "subpage_lower_left_longitude": -135.0, 
+        "subpage_map_hemisphere": "south", 
+        "subpage_map_projection": "polar_stereographic", 
+        "subpage_lower_left_latitude": -9.0
+    }, 
+    "south_atlantic_and_indian_ocean": {
+        "subpage_lower_left_longitude": -65.0, 
+        "subpage_upper_right_longitude": 122.0, 
+        "subpage_map_projection": "cylindrical", 
+        "subpage_upper_right_latitude": 25.0, 
+        "subpage_lower_left_latitude": -69.0
+    }, 
+    "equatorial_pacific": {
+        "subpage_lower_left_longitude": 130.0, 
+        "subpage_upper_right_longitude": 285.0, 
+        "subpage_map_projection": "cylindrical", 
+        "subpage_upper_right_latitude": 50.0, 
+        "subpage_lower_left_latitude": -50.0
+    }, 
+    "australasia": {
+        "subpage_lower_left_longitude": 109.7, 
+        "subpage_upper_right_longitude": 179.0, 
+        "subpage_map_projection": "cylindrical", 
+        "subpage_upper_right_latitude": -6.0, 
+        "subpage_lower_left_latitude": -47.6
+    }, 
+    "north_atlantic": {
+        "subpage_upper_right_longitude": 40.0, 
+        "subpage_upper_right_latitude": 62.0, 
+        "subpage_lower_left_longitude": -50.0, 
+        "subpage_vertical_longitude": -20, 
+        "subpage_map_projection": "polar_stereographic", 
+        "subpage_lower_left_latitude": 23.0
+    }, 
+    "western_asia": {
+        "subpage_upper_right_longitude": 133.29, 
+        "subpage_upper_right_latitude": 54.56, 
+        "subpage_lower_left_longitude": 49.51, 
+        "subpage_vertical_longitude": 69.42, 
+        "subpage_map_projection": "polar_stereographic", 
+        "subpage_lower_left_latitude": 18.85
+    }, 
+    "north_america": {
+        "subpage_upper_right_longitude": -41.6, 
+        "subpage_upper_right_latitude": 42.0, 
+        "subpage_lower_left_longitude": -118.1, 
+        "subpage_vertical_longitude": -100, 
+        "subpage_map_projection": "polar_stereographic", 
+        "subpage_lower_left_latitude": 20.0
+    }
+}
