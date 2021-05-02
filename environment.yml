@@ -4,5 +4,6 @@ channels:
 dependencies:
   - xarray
   - netcdf4
+  - scipy
   - magics
   - ipywidgets
