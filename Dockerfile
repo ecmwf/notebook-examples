@@ -17,5 +17,6 @@ RUN adduser --disabled-password \
 #COPY ./jupyter_notebook_config.py ${HOME}/.jupyter/jupyter_notebook_config.py
 COPY . ${HOME}
 USER root
-RUN chown -R ${NB_UID} ${HOME} && cd ${HOME}
+RUN chown -R ${NB_UID} ${HOME}
+RUN cd ${HOME}
 USER ${NB_USER}
