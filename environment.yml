@@ -3,5 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - xarray
+  - netcdf4
+  - scipy
   - magics
   - ipywidgets
