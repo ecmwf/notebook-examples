@@ -18,5 +18,5 @@ RUN adduser --disabled-password \
 COPY . ${HOME}
 USER root
 RUN chown -R ${NB_UID} ${HOME}
-RUN cd ${HOME}
+WORKDIR ${HOME}
 USER ${NB_USER}
