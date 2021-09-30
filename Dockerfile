@@ -1,4 +1,4 @@
-FROM ecmwf/magics:4.4.0
+FROM ecmwf/magics:4.9.1
 
 RUN pip install --no-cache-dir notebook==5.*
 RUN pip install xarray ipywidgets scipy
