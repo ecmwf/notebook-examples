@@ -1,9 +1,9 @@
 name: example-environment
-channels:
-  - conda-forge
 dependencies:
   - xarray
   - netcdf4
   - scipy
+  - ecmwf-opendata
+  - ecmwf-data
   - magics
   - ipywidgets
