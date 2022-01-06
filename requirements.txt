@@ -1,7 +1,8 @@
- - xarray
-  - netcdf4
-  - scipy
-  - ecmwf-opendata
-  - ecmwf-data
-  - magics
-  - ipywidgets
+ 
+ # pip requirements file
+ xarray
+ netcdf4
+ ecmwf-opendata
+ ecmwf-data
+ magics
+ ipywidgets
