@@ -4,5 +4,5 @@
  netcdf4
  ecmwf-opendata
  ecmwf-data
- magics
+ git+git:https://github.com/ecmwf/ecmwf-geomaps
  ipywidgets
