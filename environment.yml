@@ -1,9 +1,0 @@
-name: example-environment
-dependencies:
-  - xarray
-  - netcdf4
-  - scipy
-  - ecmwf-opendata
-  - ecmwf-data
-  - magics
-  - ipywidgets
