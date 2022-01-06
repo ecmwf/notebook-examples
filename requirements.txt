@@ -1,0 +1,8 @@
+ 
+ # pip requirements file
+ xarray
+ netcdf4
+ ecmwf-opendata
+ ecmwf-data
+ git+git://github.com/ecmwf/ecmwf-geomaps
+ ipywidgets
