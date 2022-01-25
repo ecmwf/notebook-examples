@@ -2,7 +2,7 @@
  # pip requirements file
  xarray
  netcdf4
- ecmwf-opendata
+ ecmwf-opendata>=0.1.0
  ecmwf-data
- magpye
+ magpye>=0.1.2
  ipywidgets
