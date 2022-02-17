@@ -8,3 +8,5 @@
  ipywidgets
  matplotlib
  ipympl
+ jupyter_contrib_nbextensions
+ 
