@@ -1,12 +1,14 @@
- 
- # pip requirements file
- xarray
- netcdf4
- ecmwf-opendata>=0.1.0
- ecmwf-data
- magpye>=0.1.3
- ipywidgets
- matplotlib
- ipympl
- jupyter_contrib_nbextensions
- 
+# pip requirements file
+xarray
+netcdf4
+ecmwf-opendata>=0.1.0
+ecmwf-data
+magpye>=0.1.3
+ipywidgets
+matplotlib
+ipympl
+jupyter_contrib_nbextensions
+jupyterlab
+nbmake
+pytest
+pytest-xdist
