@@ -12,3 +12,4 @@ jupyterlab
 nbmake
 pytest
 pytest-xdist
+ecmwf-api-client
