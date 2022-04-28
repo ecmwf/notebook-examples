@@ -3,7 +3,7 @@ xarray
 netcdf4
 ecmwf-opendata>=0.1.0
 ecmwf-data
-magpye>=0.1.3
+magpye>=0.1.4
 ipywidgets
 matplotlib
 ipympl
