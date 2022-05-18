@@ -1,0 +1,101 @@
+{
+    "class": "WS_COLLECTION",
+    "convention": "metview-ws",
+    "features": [
+        {
+            "class": "WS_COLDFRONT",
+            "convention": "metview-ws",
+            "geometry": {
+                "coordinates": [
+                    [
+                        -78.81373714765337,
+                        61.11670336583832
+                    ],
+                    [
+                        -47.5904035811709,
+                        -13.3721296005033
+                    ],
+                    [
+                        -113.05868363992447,
+                        -45.583516829191566
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "name": "cold_front",
+            "properties": {
+                "scenePos": [
+                    264,
+                    330
+                ],
+                "style": {
+                    "params": {
+                        "COLOUR": "BLUE",
+                        "GEOLOCK": "OFF",
+                        "LINE_THICKNESS": "1",
+                        "SYMBOL_GAP": "15",
+                        "SYMBOL_ORIENTATION": "RIGHT",
+                        "SYMBOL_WIDTH": "10",
+                        "TYPE": "SURFACE"
+                    },
+                    "verb": "WS_COLDFRONT"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "class": "WS_WARMFRONT",
+            "convention": "metview-ws",
+            "geometry": {
+                "coordinates": [
+                    [
+                        -77.30293068475905,
+                        64.13652091852785
+                    ],
+                    [
+                        18.381478631880782,
+                        12.799622522805917
+                    ],
+                    [
+                        18.381478631880782,
+                        -38.03397294746775
+                    ],
+                    [
+                        18.381478631880782,
+                        -42.06039635105379
+                    ],
+                    [
+                        23.417500174861825,
+                        -25.954702736709656
+                    ],
+                    [
+                        42.55438203818979,
+                        -69.74205725070777
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "name": "warm_front",
+            "properties": {
+                "scenePos": [
+                    267,
+                    336
+                ],
+                "style": {
+                    "params": {
+                        "COLOUR": "RED",
+                        "GEOLOCK": "OFF",
+                        "LINE_THICKNESS": "1",
+                        "SYMBOL_GAP": "15",
+                        "SYMBOL_ORIENTATION": "RIGHT",
+                        "SYMBOL_WIDTH": "10",
+                        "TYPE": "SURFACE"
+                    },
+                    "verb": "WS_WARMFRONT"
+                }
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

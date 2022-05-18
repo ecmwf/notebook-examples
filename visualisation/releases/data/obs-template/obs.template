@@ -1,0 +1,9 @@
+<observations>
+	<obs_template type='guan_plot' rows='3' columns='3'>
+     	<obs_identification colour='navy' row='0' column='0'/>   
+     	<obs_string format='${freq00}/${gross00}' colour='blue' row='1' column='-2'/>      
+     	<obs_string format='${freq06}/${gross06}' colour='red' row='1' column='2'/>
+     	<obs_string format='${freq12}/${gross12}' colour='purple' row='-1' column='-2'/>      
+     	<obs_string format='${freq18}/${gross18}' colour='green' row='-1' column='2'/>            
+ 	</obs_template>
+</observations>
