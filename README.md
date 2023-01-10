@@ -1,6 +1,6 @@
 # <img src="logo.png" width="200"> - How to work with meteorological data
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ecmwf/notebook-examples/master?filepath=%2Fhome%2Fjovyan)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ecmwf/notebook-examples/master/)
 
 The examples in this space should give you a good starting point how you can work with ECMWF services and data through Python using Jupyter notebooks. 
 
