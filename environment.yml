@@ -4,6 +4,7 @@ dependencies:
   - metview-batch >=5.16.0
   - cartopy
   - cfgrib
+  - cdsapi
   - pip
   - pip:
     - metview >=1.4.0
