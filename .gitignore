@@ -1,3 +1,6 @@
 .ipynb_checkpoints
 opencharts/*.grib
 opencharts/._mv_iconlist_
+opencharts/._mv_viewinfo_
+.DS_Store
+._mv_iconlist_
