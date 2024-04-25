@@ -5,9 +5,9 @@ dependencies:
   - metview-batch==5.22.0
   - cartopy
   - cfgrib==0.9.11.0
-  - cdsapi==0.7.0
   - pip
   - pip:
+    - cdsapi==0.7.0
     - metview==1.13.1
     - scipy
     - matplotlib
