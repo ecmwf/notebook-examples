@@ -1,0 +1,19 @@
+name: 49r1
+channels:
+  - conda-forge
+dependencies:
+  - python==3.12
+  - metview-batch
+  - metview-python
+  - pip
+  - pip:
+    - ipywidgets
+    - ipympl
+    - jupyter_contrib_nbextensions
+    - jupyterlab
+    - nbmake
+    - pytest
+    - pytest-xdist
+    - ecmwf-api-client
+    - earthkit-time==0.1.3
+    - requests
