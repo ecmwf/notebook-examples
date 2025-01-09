@@ -8,7 +8,7 @@ dependencies:
   - cdsapi
   - pip
   - pip:
-    - metview=>1.16.1
+    - metview>=1.16.1
     - scipy
     - matplotlib
     - xarray
