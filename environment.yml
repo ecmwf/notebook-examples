@@ -2,21 +2,19 @@ name: notebooks
 channels:
   - conda-forge
 dependencies:
-  - metview-batch==5.18.0
+  - metview-batch
   - cartopy
-  - cfgrib==0.9.10.3
-  - cdsapi==0.6.1
+  - cfgrib
+  - cdsapi
   - pip
   - pip:
-    - metview==1.13.1
+    - metview=>1.16.1
     - scipy
     - matplotlib
     - xarray
     - pandas
-    - netcdf4==1.6.3
-    - ecmwf-opendata>=0.3.3
-    - ecmwf-data
-    - magpye==0.1.4
+    - netcdf4
+    - ecmwf-opendata>=0.3.14
     - ipywidgets
     - ipympl
     - jupyter_contrib_nbextensions
