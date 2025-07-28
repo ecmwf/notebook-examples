@@ -6,6 +6,7 @@ The examples in this space should give you a good starting point how you can wor
 
 * [Visualisation meteorological data](visualisation) using ECMWF's [Magics](https://software.ecmwf.int/magics) plotting package for meteorological data.
 * [Download images and reproducing ECMWF Open Charts](opencharts) using new ECMWF Python libraries
+* [Explore changes in the new IFS and AIFS cycle upgrades](model_upgrades) using new ECMWF Python libraries
 
 Many notebooks that showcase processing of ECMWF data using [Metview](https://metview.readthedocs.io/en/latest/) can now be found in Metview documentation page:
 * [Gallery of Jupyter notebooks](https://metview.readthedocs.io/en/latest/notebook_gallery.html)
