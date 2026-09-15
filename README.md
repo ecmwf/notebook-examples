@@ -7,6 +7,7 @@ The examples in this space should give you a good starting point how you can wor
 * [Visualisation meteorological data](visualisation) using ECMWF's [Magics](https://software.ecmwf.int/magics) plotting package for meteorological data.
 * [Download images and reproducing ECMWF Open Charts](opencharts) using [Metview](https://metview.readthedocs.io/en/latest/)
 * [Explore changes in the new IFS and AIFS cycle upgrades](model_upgrades) using [Metview](https://metview.readthedocs.io/en/latest/)
+* [Access ECMWF static datasets on AWS](opendata) using [earthkit](https://earthkit.readthedocs.io/) and boto3
 
 Many notebooks that showcase processing of ECMWF data using [Metview](https://metview.readthedocs.io/en/latest/) can now be found in Metview documentation page:
 * [Gallery of Jupyter notebooks](https://metview.readthedocs.io/en/latest/notebook_gallery.html)
@@ -17,5 +18,3 @@ Each notebook has a list of nececary libraries needed for it to work and code to
 If you clone this repo and want to explore all the notebooks, you can use the environment.yml file to create a conda environment and install all the libraries inside, using this command:  
 
 `conda env create -f environment.yml`
-
-Note: All the libraries are frozen on 09th January 2025.
