@@ -6,6 +6,8 @@ dependencies:
   - cartopy
   - cfgrib
   - cdsapi
+  - earthkit-data>=1.0.0
+  - boto3
   - pip
   - pip:
     - metview>=1.16.1
@@ -23,3 +25,4 @@ dependencies:
     - pytest
     - pytest-xdist
     - ecmwf-api-client==1.6.3
+    - earthkit-plots>=1.0.0
