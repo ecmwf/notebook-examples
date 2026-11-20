@@ -7,6 +7,7 @@ dependencies:
   - cfgrib
   - cdsapi
   - earthkit-data>=1.0.0
+  - pdbufr>=0.13
   - boto3
   - pip
   - pip:
